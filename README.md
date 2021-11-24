@@ -1,10 +1,8 @@
-# Personal photography portfolio
+# A portfolio built for Dimitry Pomazan
 
-A blazing fast photography portfolio built with Gatsby. 🔥
+A blazing fast photography portfolio built with Gatsby
 
-https://aldisameriks.photos
-
-![build-test-publish](https://github.com/aldis-ameriks/photography-portfolio/workflows/build-test-publish/badge.svg)
+https://dimas-world.netlify.com
 
 ## Features
 
@@ -14,11 +12,3 @@ https://aldisameriks.photos
 - Static hosting ☁️
 - Blazing fast 🔥
 - PWA 💣
-
-<p align="center">
-  <img src="./lighthouse.png" width="699" height="247" />
-</p>
-
-<p align="center">
-  <img src="./screenshot.png" />
-</p>
